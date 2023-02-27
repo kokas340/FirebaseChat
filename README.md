@@ -2,4 +2,4 @@
 app made with react-native and firebase =D
 
 
-![image](https://user-images.githubusercontent.com/65230037/221553455-ae008c0a-eaee-4d4f-82e6-2dea8678e0c2.png)
+![image](https://viaucdk-my.sharepoint.com/:i:/g/personal/326238_viauc_dk/EQq7LU8cn8RBnkWgO_UKQIUB46G05Mfbs-sRpchQWT2Tfg?e=N0jBJ1)
